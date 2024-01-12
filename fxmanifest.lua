@@ -1,5 +1,5 @@
-fx_version "cerulean"
-games { 'gta5' }
+fx_version 'cerulean'
+game 'gta5'
 
 author 'G&N_s Studio'
 description 'Paleto Bay Mapdata - Sheriff Only'
@@ -12,9 +12,5 @@ dependencies {
 this_is_a_map 'yes'
 
 escrow_ignore {
-    'stream/ybn/*.ybn',
-    'stream/ydr/*.ydr',
-    'stream/ydr/*.ydd',
-    'stream/ymap/*.ymap'
+    'stream/**/*'
 }
-
