@@ -2,7 +2,7 @@ fx_version "cerulean"
 games { 'gta5' }
 
 author 'G&N_s Studio'
-description 'Paleto Bay Mapdata - Sheriff + Clinic + BlackWood Saloon'
+description 'Paleto Bay Mapdata - Clinic + BlackWood Saloon'
 version '4.0.0'
 
 dependencies {
